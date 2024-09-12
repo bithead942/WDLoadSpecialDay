@@ -1,0 +1,13 @@
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\bin\Debug\WDLoadSpecialDay.exe.config
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\bin\Debug\WDLoadSpecialDay.exe
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\bin\Debug\WDLoadSpecialDay.pdb
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\obj\Debug\WDLoadSpecialDay.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\obj\Debug\WDLoadSpecialDay.Form1.resources
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\obj\Debug\WDLoadSpecialDay.Properties.Resources.resources
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\obj\Debug\WDLoadSpecialDay.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\obj\Debug\WDLoadSpecialDay.exe
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\obj\Debug\WDLoadSpecialDay.pdb
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Greg\Documents\Watchdog\WDLoadSpecialDay\WDLoadSpecialDay\bin\Debug\System.Net.Http.Formatting.xml
